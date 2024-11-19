@@ -50,7 +50,7 @@ Tener instalado:
   
   🔧 Configuración del proyecto
 
-- git clone https://github.com/tuusuario/tu-repositorio.git
+- git clone https://github.com/karensalazar3/EjercicioExpressMysql/tree/main
 
 📖 Endpoints disponibles
 - Productos
