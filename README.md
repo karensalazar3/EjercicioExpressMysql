@@ -28,19 +28,19 @@ Consultar productos con sus respectivas categorías.
 
 📂 Estructura del proyecto
 sql_express_api/
-├── config/
-│   ├── database.js            # Conexión a la base de datos
-│   ├── database.example.js    # Ejemplo de configuración
-├── controllers/
-│   ├── ProductController.js   # Lógica para productos
-│   ├── CategoryController.js  # Lógica para categorías
-├── routes/
-│   ├── products.js            # Rutas de productos
-│   ├── categories.js          # Rutas de categorías
-├── .env                       # Variables de entorno
-├── .gitignore                 # Ignorar archivos sensibles
-├── package.json               # Configuración de npm
-├── server.js                  # Configuración del servidor
+- config/
+- database.js            # Conexión a la base de datos
+- atabase.example.js    # Ejemplo de configuración
+- controllers/
+- ProductController.js   # Lógica para productos
+- CategoryController.js  # Lógica para categorías
+- routes/
+- products.js            # Rutas de productos
+- categories.js          # Rutas de categorías
+- .env                       # Variables de entorno
+- .gitignore                 # Ignorar archivos sensibles
+- package.json               # Configuración de npm
+   server.js                  # Configuración del servidor
 
 📋 Requisitos previos
 Tener instalado:
