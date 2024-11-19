@@ -1,0 +1,4 @@
+# Ocultar archivos de configuración
+.env
+config/database.js
+node_modules
